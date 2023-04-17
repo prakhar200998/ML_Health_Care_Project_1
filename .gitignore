@@ -163,3 +163,7 @@ xray_dataset/
 xray_net.pth
 
 *.pdf
+.DS_Store
+xray_net_jupyter.pth
+xray_net_old.pth
+xray_dataset.tar.gz
